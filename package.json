@@ -51,7 +51,7 @@
 		"download": "^8.0.0",
 		"execa": "^5.1.1",
 		"ora": "^6.0.0",
-		"prompts": "^2.4.1"
+		"prompts": "^2.4.2"
 	},
 	"devDependencies": {
 		"@wordpress/scripts": "^18.0.1",
